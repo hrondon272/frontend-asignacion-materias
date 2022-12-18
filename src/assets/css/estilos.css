@@ -1,0 +1,38 @@
+.formulario{
+    background-color: rgb(243, 243, 243);
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    padding: 2%;
+    border-radius: 8px;
+    border: solid 1px rgb(219, 219, 219);
+}
+
+label{
+    text-align: left;
+    margin-bottom: 6px !important;
+}
+
+input{
+    margin-bottom: 10px !important;
+}
+
+.o-table{
+    background-color: rgb(243, 243, 243);
+    width: 100%;
+    max-width: 900px;
+    margin: 12px auto;
+    padding: 2%;
+    border-radius: 8px;
+    border: solid 1px rgb(219, 219, 219);
+}
+
+.o-table button{
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+th, td{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
