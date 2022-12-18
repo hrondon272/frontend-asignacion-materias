@@ -1,4 +1,4 @@
-# primer_proyecto_vue
+# Frontend - asignación de materias
 
 ## Project setup
 ```
